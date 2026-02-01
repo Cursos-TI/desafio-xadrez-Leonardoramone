@@ -67,4 +67,4 @@ int main() {
     // Inclua o uso de continue e break dentro dos loops.
 
     return 0;
-}
+} //mantendo o código no github
